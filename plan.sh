@@ -1,7 +1,7 @@
 pkg_origin=rnicholson-optum
 pkg_name=webapp
-pkg_version="0.2.0"
-pkg_maintainer="Franklin Webber <franklin@chef.io>"
+pkg_version="0.2.1"
+pkg_maintainer="Bob Nicholson <rnicholson@optum.com>"
 pkg_license=('Apache-2.0')
 pkg_deps=(core/httpd)
 pkg_svc_user="root"
