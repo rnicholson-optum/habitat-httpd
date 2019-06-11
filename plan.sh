@@ -1,4 +1,4 @@
-pkg_origin=franklinwebber
+pkg_origin=rnicholson-optum
 pkg_name=webapp
 pkg_version="0.2.0"
 pkg_maintainer="Franklin Webber <franklin@chef.io>"
